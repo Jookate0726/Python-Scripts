@@ -1,5 +1,4 @@
-# Simple Pygame Snake Example
-
+#PONG Arcade Game
 import pygame
 import keyboard
 from random import randint
